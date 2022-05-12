@@ -4,6 +4,7 @@ a.button {
     appearance: button;
 
     text-decoration: none;
+    background-color: hotpink;
     color: fuchsia;
     border: 2px solid navy;
 }
