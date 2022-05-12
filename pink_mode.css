@@ -44,3 +44,16 @@ a.button {
     color: black;
     border: 2px solid black;
 }
+
+a.blue_button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    background-color: blue;
+    color: aqua;
+    border: 2px solid navy;
+}
+
+}
