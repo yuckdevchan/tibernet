@@ -20,12 +20,12 @@ p {
 
 /* unvisited link */
 a:link {
-  color: hotpink;
+  color: fuchsia;
 }
 
 /* visited link */
 a:visited {
-  color: fuchsia;
+  color: hotpink;
 }
 
 /* mouse over link */
