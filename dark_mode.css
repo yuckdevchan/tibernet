@@ -17,3 +17,23 @@ h3 {
 p {
   color: #B0B0B0
 }
+
+/* unvisited link */
+a:link {
+  color: hotpink;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
