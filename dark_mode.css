@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: fuchsia;
 }
 
 h1 {
@@ -12,28 +12,4 @@ h2 {
 
 h3 {
   color: #FFFFFF;
-}
-
-p {
-  color: #B0B0B0
-}
-
-/* unvisited link */
-a:link {
-  color: fuchsia;
-}
-
-/* visited link */
-a:visited {
-  color: hotpink;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
 }
