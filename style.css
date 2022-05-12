@@ -19,3 +19,14 @@ a.blue_button {
     color: aqua;
     border: 2px solid navy;
 }
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
