@@ -8,3 +8,14 @@ a.pink_button {
     color: purple;
     border: 2px solid navy;
 }
+
+a.blue_button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    background-color: blue;
+    color: aqua;
+    border: 2px solid navy;
+}
