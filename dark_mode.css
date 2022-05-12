@@ -13,3 +13,23 @@ h2 {
 h3 {
   color: #FFFFFF;
 }
+
+/* unvisited link */
+a:link {
+  color: springgreen;
+}
+
+/* visited link */
+a:visited {
+  color: chartreuse;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
