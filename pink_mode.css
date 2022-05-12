@@ -33,3 +33,13 @@ a:hover {
 a:active {
   color: blue;
 }
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+}
