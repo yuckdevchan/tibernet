@@ -24,6 +24,7 @@ a.pink_button {
     color: purple;
     border: 2px solid navy;
     font-family: 'JetBrains Mono', monospace;
+    text-align: center;
 }
 
 a.blue_button {
@@ -36,6 +37,7 @@ a.blue_button {
     color: aqua;
     border: 2px solid navy;
     font-family: 'JetBrains Mono', monospace;
+    text-align: center;
 }
 
 a.button {
@@ -48,4 +50,5 @@ a.button {
     color: black;
     border: 2px solid black;
     font-family: 'JetBrains Mono', monospace;
+    text-align: center;
 }
