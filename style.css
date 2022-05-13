@@ -18,6 +18,7 @@ a {
 
 p {
     font-family: 'JetBrains Mono', monospace;
+    text-align: left;
 }
 
 a.pink_button {
