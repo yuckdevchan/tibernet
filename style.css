@@ -1,63 +1,70 @@
+/* General CSS rules for the body of the site */
 
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #22272e;
+}
+
+/* Text properties */
+
+p {
+  color: white; 
+}
+
+/* List item properties */
+
+li {
+  color: white;
+}
+
+/* Heading properties */
 
 h1 {
-    font-family: "Comic Sans MS", cursive;
+  color: white; 
 }
 
 h2 {
-    font-family: 'JetBrains Mono', monospace;
+  color: white; 
 }
 
 h3 {
-    font-family: 'JetBrains Mono', monospace;
+  color: white; 
 }
 
+h4 {
+  color: white;
+}
+
+/* Hyperlink properties */
 
 a {
-    font-family: 'JetBrains Mono', monospace;
+  color: #539bf5;
 }
 
-
-p {
-    font-family: 'JetBrains Mono', monospace;
-    text-align: left;
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
 }
 
-a.pink_button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    background-color: fuchsia;
-    color: purple;
-    border: 2px solid navy;
-    font-family: 'JetBrains Mono', monospace;
-    text-align: center;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-a.blue_button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    background-color: blue;
-    color: aqua;
-    border: 2px solid navy;
-    font-family: 'JetBrains Mono', monospace;
-    text-align: center;
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    background-color: white;
-    color: black;
-    border: 2px solid black;
-    font-family: 'JetBrains Mono', monospace;
-    text-align: center;
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: darkcyan;
+  color: white;
 }
