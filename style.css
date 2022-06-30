@@ -77,7 +77,7 @@ a {
 .button {
   font: bold 11px Arial;
   text-decoration: none;
-  background-color: #EEEEEE;
+  background-color: #333;
   color: darkcyan;
   padding: 2px 6px 2px 6px;
   border-top: 1px solid #CCCCCC;
