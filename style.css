@@ -85,3 +85,14 @@ a {
   border-bottom: 2px solid darkcyan;
   border-left: 2px solid darkcyan;
 }
+
+.tetrisbutton {
+  background-color: blue;
+   color: white;
+  padding: 2px 6px 2px 6px;
+  border-top: 2px solid darkcyan;
+  border-right: 2px solid darkcyan;
+  border-bottom: 2px solid darkcyan;
+  border-left: 2px solid darkcyan;
+  
+}
