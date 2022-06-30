@@ -121,3 +121,7 @@ a {
   border-bottom: 2px solid blue;
   border-left: 2px solid red;
 }
+
+.red {
+  color:red;
+}
