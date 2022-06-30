@@ -109,3 +109,15 @@ a {
   border-bottom: 2px solid darkcyan;
   border-left: 2px solid darkcyan;
 }
+
+.mariobutton {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: red;
+  color: blue;
+  padding: 2px 6px 2px 6px;
+  border-top: 2px solid green;
+  border-right: 2px solid yellow;
+  border-bottom: 2px solid blue;
+  border-left: 2px solid red;
+}
