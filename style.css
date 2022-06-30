@@ -78,10 +78,10 @@ a {
   font: bold 11px Arial;
   text-decoration: none;
   background-color: #333;
-  color: darkcyan;
+  color: white;
   padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
+  border-top: 2px solid darkcyan;
+  border-right: 2px solid darkcyan;
+  border-bottom: 2px solid darkcyan;
+  border-left: 2px solid darkcyan;
 }
