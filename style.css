@@ -103,11 +103,11 @@ a {
   text-decoration: none;
   background-color: red;
   color: white;
-  padding: 2px 6px 2px 6px;
-  border-top: 2px solid gold;
-  border-right: 2px solid gold;
-  border-bottom: 2px solid gold;
-  border-left: 2px solid gold;
+  padding: 8px 12px 8px 12px;
+  border-top: 4px solid gold;
+  border-right: 4px solid gold;
+  border-bottom: 4px solid gold;
+  border-left: 4px solid gold;
 }
 
 .mariobutton {
@@ -115,11 +115,11 @@ a {
   text-decoration: none;
   background-color: red;
   color: white;
-  padding: 2px 6px 2px 6px;
-  border-top: 2px solid green;
-  border-right: 2px solid yellow;
-  border-bottom: 2px solid blue;
-  border-left: 2px solid orangered;
+  padding: 8px 12px 8px 12px;
+  border-top: 4px solid green;
+  border-right: 4px solid yellow;
+  border-bottom: 4px solid blue;
+  border-left: 4px solid orangered;
 }
 
 .red {
