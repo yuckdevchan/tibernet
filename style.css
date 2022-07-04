@@ -197,3 +197,15 @@ a {
   border-bottom: 4px solid ghostwhite;
   border-left: 4px solid ghostwhite;
 }
+
+.peanutbutton{
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: peru;
+  color: white;
+  padding: 8px 12px 8px 12px;
+  border-top: 4px solid royalblue;
+  border-right: 4px solid royalblue;
+  border-bottom: 4px solid royalblue;
+  border-left: 4px solid royalblue;
+}
