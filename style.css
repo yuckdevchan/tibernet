@@ -185,3 +185,15 @@ a {
   border-bottom: 4px solid darkolivegreen;
   border-left: 4px solid darkolivegreen;
 }
+
+.holebutton{
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: deepskyblue;
+  color: white;
+  padding: 8px 12px 8px 12px;
+  border-top: 4px solid white;
+  border-right: 4px solid ghostwhite;
+  border-bottom: 4px solid ghostwhite;
+  border-left: 4px solid ghostwhite;
+}
