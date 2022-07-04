@@ -156,8 +156,8 @@ a {
   background-color: forestgreen;
   color: white;
   padding: 8px 12px 8px 12px;
-  border-top: 2px solid dodgerblue;
-  border-right: 2px solid dodgerblue;
-  border-bottom: 2px solid dodgerblue;
-  border-left: 2px solid dodgerblue;
+  border-top: 4px solid dodgerblue;
+  border-right: 4px solid dodgerblue;
+  border-bottom: 4px solid dodgerblue;
+  border-left: 4px solid dodgerblue;
 }
