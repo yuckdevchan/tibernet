@@ -228,10 +228,10 @@ a {
 }
 
 .circle {
-        border-radius: 0%;
-        width: 34px;
-        height: 34px;
-        padding: 10px;
+        border-radius: 50%;
+        width: 15px;
+        height: 15px;
+        padding: 0px;
         background: #fff;
         border: 3px solid #000;
         color: #000;
