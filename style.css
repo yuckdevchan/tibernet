@@ -124,6 +124,9 @@ a {
 
 .red {
   color:red;
+}
+
+.h2inline {
   display: inline;
 }
 
