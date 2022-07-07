@@ -124,6 +124,7 @@ a {
 
 .red {
   color:red;
+  display: inline;
 }
 
 .cookiebutton {
