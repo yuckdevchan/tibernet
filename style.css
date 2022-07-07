@@ -229,8 +229,8 @@ a {
 
 .circle {
         border-radius: 50%;
-        width: 10px;
-        height: 10px;
+        width: 5px;
+        height: 5px;
         padding: 10px;
         background: #fff;
         border: 0px solid #000;
