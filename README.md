@@ -1,3 +1,3 @@
-# list
+# Unblock it
 
-List of websites not blocked by Fortinet
+Easily bypass censorship endeavours
