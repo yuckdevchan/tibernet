@@ -14,3 +14,7 @@ Please submit issues in the issues tab such as:
 - A single service not being accessible at all for you from any of the links on the network you're using.
 
 Sorry for messy folders!
+
+If anyone has licensing issues please contact me by placing an issue on this GitHub repository. If you forking or just using my project for commerical use, feel free as long as it follows my license this project is under, (the GPL v2.0 and **not** the GPL v3.0).\
+
+There are some potential licensing issues with this project and may or may not be covered by fair use. One of these such issues is that this repo uses the SCE-PS3 Rodin LATIN font (provided as courtesy of onlinewebfonts). This is the font used by Sony Computer Entertainment for the FreeBSD XMB interface of the PS3, PSP, PSX and PSVita. This font is thought to be under copyright of Fontworks Japan although this is not a 100% solid fact.
