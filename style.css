@@ -1,5 +1,7 @@
 @import url(//db.onlinewebfonts.com/c/3c9a33e9913448d684afff5b4b0cc59c?family=SCE-PS3+Rodin+LATIN);
 
+@font-face {font-family: "SCE-PS3 Rodin LATIN"; src: url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.eot"); src: url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.woff") format("woff"), url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3c9a33e9913448d684afff5b4b0cc59c.svg#SCE-PS3 Rodin LATIN") format("svg"); }
+
 /* General CSS rules for the body of the site */
 
 body {
