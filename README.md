@@ -12,6 +12,7 @@ Please submit issues in the issues tab such as:
 - The website not working as intended
 - Consistency errors on the website
 - A single service not being accessible at all for you from any of the links on the network you're using.
+- If you have suggestions on how to make this project better.
 
 Sorry for messy folders!
 
