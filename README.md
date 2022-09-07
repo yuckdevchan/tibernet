@@ -27,3 +27,5 @@ If anyone has licensing issues please contact me by placing an issue on this Git
 There are some potential licensing issues with this project and may or may not be covered by fair use. One of these such issues is that this repo uses the SCE-PS3 Rodin LATIN font (provided as courtesy of onlinewebfonts). This is the font used by Sony Computer Entertainment for the FreeBSD XMB interface of the PS3, PSP, PSX and PSVita. This font is thought to be under copyright of Fontworks Japan although this is not a 100% solid fact.\
 
 Unlike my *previous* projects *cough cough* yuck.ga *cough cough* that had licensing issues due to using conflicting open-source licenses by borrowing code from other repositories (which is partly why yuck.ga is now **deprecated**) this repository doesn't use much if any lines of code from other projects.
+
+There is also some CC-BY 4.0 code in here, written by [Garret Howard](https://github.com/garrhow). This is his GitHub: https://github.com/garrhow, and this is his website: https://mersh.com but I made a mirror of it since it is not working at the moment: https://mersh-mirror.netlify.app.
