@@ -258,3 +258,19 @@ a {
     text-shadow: 0 0 20px #fff, 0 0 30px white, 0 0 40px white, 0 0 50px;
   }
 }
+
+.prosplash {
+  font-size: 15px;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px yellow, 0 0 40px yellow, 0 0 50px yellow;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px white, 0 0 40px white, 0 0 50px;
+  }
+}
