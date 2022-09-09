@@ -29,3 +29,7 @@ There are some potential licensing issues with this project and may or may not b
 Unlike my *previous* projects *cough cough* yuck.ga *cough cough* that had licensing issues due to using conflicting open-source licenses by borrowing code from other repositories (which is partly why yuck.ga is now **deprecated**) this repository doesn't use much if any lines of code from other projects.
 
 There is also some CC-BY 4.0 code in here, written by [Garret Howard](https://github.com/garrhow). This is his GitHub: https://github.com/garrhow, and this is his website: https://mersh.com but I made a mirror of it since it is not working at the moment: https://mersh-mirror.netlify.app.
+
+### Privacy
+
+The privacy policy for the default instance of unblockit (tiber.ml, invl.netlify.app and yuck.tk) can be found /privacy.html. Ads can be easily removed in your fork or rehost and probably won't even work out of the box. You can also remove ads by signing up for tibernet premium for £0.10 a month (coming soon).
