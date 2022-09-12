@@ -4,7 +4,7 @@
 
 ### Introduction & Use-Cases
 
-This project aims to end Local Network internet censorship at a high level. This repository is designed to be easily reproducable and at a low or non-existent price as it is a 'static website'.
+This project aims to end Local Network internet censorship at a high level. This repository is designed to be easily reproducable and at a low or non-existent price as it is a 'static website' but also uses no javascript.
 
 An example of where this program is applicable is in a school or workplace where local network blocking is used either by using 'Trick Domain Name Server(s) or TDNS for short' or any other means.
 
