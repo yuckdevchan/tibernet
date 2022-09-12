@@ -10,6 +10,8 @@ An example of where this program is applicable is in a school or workplace where
 
 Another useful scenario is if you're a privacy-conscious individual who wish for their privacy to be respected by others as much as they can. Using this service can ease in the use of accessing other services through privacy-respecting WWW Proxies by 'ethically and legally exploiting' their APIs.
 
+Also... No Javascript! https://www.infoworld.com/article/2641586/javascript-considered-harmful-.html
+
 ### Submitting issues
 
 Please submit issues in the issues tab such as:
