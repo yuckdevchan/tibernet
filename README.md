@@ -1,14 +1,14 @@
 # Unblock it
 
-## Easily bypass low-level censorship.
+## Bypass low-level censorship and conserve your privacy and rights!.
 
 ### Introduction & Use-Cases
 
+The main use-case scenario is if you're a privacy-conscious individual who wish for their privacy to be respected by others as much as they can. Using this service can ease in the use of accessing other services through privacy-respecting WWW Proxies by 'ethically and legally exploiting' their APIs.
+
 This project aims to end Local Network internet censorship at a high level. This repository is designed to be easily reproducable and at a low or non-existent price as it is a 'static website' but also uses no javascript.
 
-An example of where this program is applicable is in a school or workplace where local network blocking is used either by using 'Trick Domain Name Server(s) or TDNS for short' or any other means.
-
-Another useful scenario is if you're a privacy-conscious individual who wish for their privacy to be respected by others as much as they can. Using this service can ease in the use of accessing other services through privacy-respecting WWW Proxies by 'ethically and legally exploiting' their APIs.
+I DO NOT CONDONE THIS but another example of where this program is applicable is in a school, workplace or hotel where local network blocking is used either by using 'Trick Domain Name Server(s) or TDNS for short' or any other means. Again, I RECOMMEND AGAINST USING MY PROJECT FOR THIS, YOUR FAULT IF YOU GET FIRED.
 
 Also... No Javascript! https://www.infoworld.com/article/2641586/javascript-considered-harmful-.html
 
@@ -26,7 +26,7 @@ Sorry for messy folders!
 
 If anyone has licensing issues please contact me by placing an issue on this GitHub repository. If you forking or just using my project for commerical use, feel free as long as it follows my license this project is under, (the GPL v2.0 and **not** the GPL v3.0).\
 
-There are some potential licensing issues with this project and may or may not be covered by fair use. One of these such issues is that this repo uses the SCE-PS3 Rodin LATIN font (provided as courtesy of onlinewebfonts). This is the font used by Sony Computer Entertainment for the FreeBSD XMB interface of the PS3, PSP, PSX and PSVita. This font is thought to be under copyright of Fontworks Japan although this is not a 100% solid fact.\
+There are some potential licensing issues with this project although they are a stretch and may or may not be covered by fair use. One of these such issues is that this repo uses the SCE-PS3 Rodin LATIN font (provided as courtesy of onlinewebfonts). This is the font used by Sony Computer Entertainment for the FreeBSD XMB interface of the PS3, PSP, PSX and PSVita. This font is thought to be under copyright of Fontworks Japan although this is not a 100% solid fact.\
 
 Unlike my *previous* projects *cough cough* yuck.ga *cough cough* that had licensing issues due to using conflicting open-source licenses by borrowing code from other repositories (which is partly why yuck.ga is now **deprecated**) this repository doesn't use much if any lines of code from other projects.
 
