@@ -1,4 +1,4 @@
-# Unblock it
+# Tibernet
 
 ## Bypass low-level censorship and conserve your privacy and rights!.
 
