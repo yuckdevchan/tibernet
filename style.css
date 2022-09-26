@@ -22,12 +22,12 @@ li {
 
 /* Heading properties */
 
-title1 {
+.title1 {
   color: white;
   display:inline;
 }
 
-banana {
+.banana {
   font: sans-serif;
 }
 
