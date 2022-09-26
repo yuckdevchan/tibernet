@@ -22,16 +22,13 @@ li {
 
 /* Heading properties */
 
-h1 {
-  color: white;
-}
-
 title1 {
+  color: white;
   display:inline;
 }
 
 banana {
-  font: monospace;
+  font: sans-serif;
 }
 
 h2 {
