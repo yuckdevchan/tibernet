@@ -23,7 +23,8 @@ li {
 /* Heading properties */
 
 h1 {
-  color: white; 
+  color: white;
+  display:inline;
 }
 
 h2 {
