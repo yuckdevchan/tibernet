@@ -24,7 +24,14 @@ li {
 
 h1 {
   color: white;
+}
+
+title1 {
   display:inline;
+}
+
+banana {
+  font: monospace;
 }
 
 h2 {
