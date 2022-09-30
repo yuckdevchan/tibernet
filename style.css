@@ -27,6 +27,10 @@ li {
   display:inline;
 }
 
+h1 {
+  color: white;
+}
+
 .banana {
   font: sans-serif;
 }
