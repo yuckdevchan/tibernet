@@ -91,7 +91,7 @@ a {
 .button {
   font: bold 11px Arial;
   text-decoration: none;
-  background-color: #333;
+  background-color: rgb(33, 33, 33);
   color: white;
   padding: 4px 8px 4px 8px;
   border-radius: 8px;
