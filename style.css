@@ -101,6 +101,13 @@ a {
   border-radius: 8px;
   margin: 5px 5px 5px 5px;
   margin-bottom: 10px;
+  transition: opacity 0.3s;
+}
+.button:hover {
+  opacity: 0.8;
+}
+.button:active {
+  opacity: 0.6
 }
 
 .tetrisbutton {
