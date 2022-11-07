@@ -12,24 +12,24 @@ body {
 /* Text properties */
 
 p {
-  color: white; 
+  color: black; 
 }
 
 /* List item properties */
 
 li {
-  color: white;
+  color: black;
 }
 
 /* Heading properties */
 
 .title1 {
-  color: white;
+  color: black;
   display:inline;
 }
 
 h1 {
-  color: white;
+  color: black;
 }
 
 .banana {
@@ -37,15 +37,15 @@ h1 {
 }
 
 h2 {
-  color: white; 
+  color: black; 
 }
 
 h3 {
-  color: white; 
+  color: black; 
 }
 
 h4 {
-  color: white;
+  color: black;
 }
 
 /* Hyperlink properties */
