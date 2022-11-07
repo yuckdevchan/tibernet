@@ -264,12 +264,3 @@ a {
   -moz-animation: glow 1s ease-in-out infinite alternate;
   animation: glow 1s ease-in-out infinite alternate;
 }
-
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px grey, 0 0 40px grey, 0 0 50px grey;
-  }
-  to {
-    text-shadow: 0 0 20px #fff, 0 0 30px white, 0 0 40px white, 0 0 50px;
-  }
-}
