@@ -1,4 +1,5 @@
 # Tibernet
+# Deprecated in favour of tibernet3
 
 ## Bypass low-level censorship and conserve your privacy and rights!.
 
